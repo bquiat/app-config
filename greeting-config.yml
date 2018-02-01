@@ -1,0 +1,8 @@
+security:
+  basic:
+    enabled: false  # unsecure app endpoints
+
+management:
+  security:
+    enabled: false  # unsecure actuator endpoints
+
